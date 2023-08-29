@@ -1,3 +1,9 @@
 {
-  "issueKeyTestcaseValues": {}
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://cloud.uipath.com/peopletechgroup/pearl/testmanager_/",
+  "defaultProject": {
+    "id": "8e485257-ac08-0000-3a27-0b45c4633b32",
+    "name": "AZ_Testing",
+    "key": "AZT"
+  }
 }
