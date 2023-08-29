@@ -57,6 +57,12 @@
         "testCaseId": "82e6a324-3123-435e-be38-235891d1a6c4",
         "testCaseType": "TestCase",
         "fileName": "TestCase2.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "b10801cc-a39c-46db-9145-70404df45018",
+        "testCaseType": "TestCase",
+        "fileName": "TestCase3.xaml"
       }
     ],
     "modernBehavior": false
