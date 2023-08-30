@@ -32,7 +32,6 @@ steps:
     orchestratorConnection: 'Uipath Testing'
     folderName: 'Test_Manager'
     testReportDestination: 'Output\testResults.xml'
-    attachRobotLogs: true
 - task: PublishBuildArtifacts@1
   inputs:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
